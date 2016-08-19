@@ -1,0 +1,5 @@
+source:
+
+beautiful soup		https://www.crummy.com/software/BeautifulSoup/bs3/documentation.html#The basic find method: findAll(name, attrs, recursive, text, limit, **kwargs)
+
+regular expression	https://docs.python.org/2/library/re.html  
