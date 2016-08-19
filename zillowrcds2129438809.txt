@@ -1,0 +1,15 @@
+85 Riverside Ave, Apt B2, Stamford, CT;2 bd;1 ba;1;Sold: $270,000;/homedetails/57365315_zpid/
+85 Riverside Ave, Apt G3, Stamford, CT;2 bd;1 ba;1;Sold: $285,000;/homedetails/57366995_zpid/
+2289 Bedford St, Unit G11, Stamford, CT;1 bd;-- ba;885 sq. ft.;Sold: $307,500;/homedetails/57380035_zpid/
+37 Riverside Ave, Apt A, Stamford, CT;2 bd;1.5 ba;1;Sold: $308,000;/homedetails/57379532_zpid/
+154 Cold Spring Rd, Apt 28, Stamford, CT;3 bd;2 ba;1;Sold: $312,000;/homedetails/57367299_zpid/
+52 Randall Ave, Apt 6, Stamford, CT;2 bd;3 ba;1;Sold: $325,000;/homedetails/2100179794_zpid/
+48 RANDALL AVE, 6, STAMFORD, CT;2 bd;3 ba;1;Sold: $325,000;/homedetails/57378422_zpid/
+1633 Washington Blvd, Apt 2G, Stamford, CT;2 bd;2 ba;1;Sold: $325,000;/homedetails/57380937_zpid/
+217 Bridge St, Apt F5, Stamford, CT;2 bd;2 ba;1;Sold: $330,000;/homedetails/57381139_zpid/
+48 RANDALL AVE, 2, STAMFORD, CT;2 bd;2.5 ba;1;Sold: $330,000;/homedetails/57378418_zpid/
+243 Bridge St, Stamford, CT;2 bd;2 ba;1;Sold: $345,000;/homedetails/64859195_zpid/
+293 Bridge St, Stamford, CT;2 bd;2 ba;1;Sold: $345,000;/homedetails/64680575_zpid/
+263 Bridge St, Stamford, CT;2 bd;2 ba;1;Sold: $345,000;/homedetails/64836047_zpid/
+307 Bridge St, Stamford, CT;2 bd;2 ba;1;Sold: $347,500;/homedetails/64745127_zpid/
+2437 Bedford St, Unit B5, Stamford, CT;2 bd;2 ba;1;Sold: $383,500;/homedetails/57380025_zpid/

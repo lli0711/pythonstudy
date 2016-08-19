@@ -1,0 +1,15 @@
+154 Cold Spring Rd, Apt 43, Stamford, CT;1 bd,;1 ba,;927 sq. ft.;$219,500;7/5/16;58829053
+154 Cold Spring Rd, Apt 34, Stamford, CT;2 bd,;1 ba,;1,160 sq. ft.;$230,000;7/13/16;57369570
+2 4th St, Unit 2, Stamford, CT;2 bd,;1 ba,;1,090 sq. ft.;$238,500;9/2/15;57382983
+36 4th St, Stamford, CT;2 bd,;1 ba,;1,054 sq. ft.;$240,000;7/14/16;57383000
+700 Summer St, Apt 4L, Stamford, CT;2 bd,;1 ba,;1,069 sq. ft.;$245,000;2/17/16;57379597
+70 Strawberry Hill Ave, Apt 4-1C, Stamford, CT;2 bd,;1 ba,;1,128 sq. ft.;$266,250;3/2/16;57379747
+51 Schuyler Ave, Stamford, CT;2 bd,;1 ba,;894 sq. ft.;$275,000;8/21/15;57379239
+700 Summer St, Apt 9L, Stamford, CT;2 bd,;1 ba,;1,069 sq. ft.;$285,000;10/2/15;57379660
+700 Summer St, Apt 3L, Stamford, CT;2 bd,;1 ba,;1,069 sq. ft.;$285,000;10/2/15;57379584
+180 Colonial Rd, Apt A3, Stamford, CT;2 bd,;1 ba,;1,169 sq. ft.;$287,100;6/30/16;57377435
+37 Riverside Ave, Apt A, Stamford, CT;2 bd,;1.5 ba,;1,160 sq. ft.;$308,000;9/22/15;57379532
+217 Bridge St, Apt A3, Stamford, CT;2 bd,;2 ba,;1,225 sq. ft.;$315,000;6/27/16;57381114
+48 RANDALL AVE, 6, STAMFORD, CT;2 bd,;3 ba,;1,360 sq. ft.;$325,000;2/29/16;57378422
+217 Bridge St, Apt F5, Stamford, CT;2 bd,;2 ba,;1,225 sq. ft.;$330,000;12/16/15;57381139
+48 RANDALL AVE, 2, STAMFORD, CT;2 bd,;2.5 ba,;1,360 sq. ft.;$330,000;11/3/15;57378418
