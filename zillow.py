@@ -30,19 +30,20 @@ for apt in nearbyapts:
 	date=datesold[1].strip()
 	zpid=apt.parent.get('data-zpid').strip()
 	
-	# webpageph='http://www.zillow.com/homedetails/placeholder_zpid/'
-	# webpage=webpageph.replace('placeholder',zpid)
-	# print webpage
-	# html2nd = urllib.urlopen(webpage).read()
-	# zsoup2nd = BeautifulSoup(html2nd)
-	# #zillowind=open('zillowind.txt','w')
-	# #zillowind.write(zsoup2nd.prettify()) 
-	# hoafee= zsoup2nd.find(text=re.compile('HOA'))
-	# if hoafee is None: 
-	# 	hoafee= 'NA';
+	##hoa fee added
+	webpageph='http://www.zillow.com/homedetails/placeholder_zpid/'
+	webpage=webpageph.replace('placeholder',zpid)
+	print webpage
+	html2nd = urllib.urlopen(webpage).read()
+	zsoup2nd = BeautifulSoup(html2nd)
+	#zillowind=open('zillowind.txt','w')
+	#zillowind.write(zsoup2nd.prettify()) 
+	hoafee= zsoup2nd.find(text=re.compile('HOA'))
+	if hoafee is None: 
+		hoafee= 'NA';
 
 	delimiter=';'
-	record= [zpid,address,bd, ba,dimension,pricenum,date]
+	record= [zpid,address,bd, ba,dimension,pricenum,date,hoafee]
 	adsp=delimiter.join(record)+'\n'
 	zillowrcds.write(adsp)
 	print adsp
